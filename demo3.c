@@ -9,5 +9,4 @@ int main()
 	}
 	else
 		printf("odd number");
-	return 0;
 }
